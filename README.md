@@ -1,7 +1,7 @@
 
-# Superhero-Book-Kotlin
+# Superhero-Book
 
-Superhero-Book-Kotlin is an Android application developed using Kotlin, designed to showcase a collection of superheroes. The app provides a user-friendly interface to browse through a list of superheroes and view detailed information about each one.
+Superhero-Book is an Android application developed using Kotlin, designed to showcase a collection of superheroes. The app provides a user-friendly interface to browse through a list of superheroes and view detailed information about each one.
 
 ## Features
 
@@ -47,11 +47,9 @@ Superhero-Book-Kotlin is an Android application developed using Kotlin, designed
 
 ## Screenshots
 
-_Add your screenshots below to showcase the app interface._
-
-| Superhero List | Superhero Detail |
-|----------------|------------------|
-| ![screenshot1](path/to/screenshot1.png) | ![screenshot2](path/to/screenshot2.png) |
+| HomeScreen | List Screen | List Screen | Detail Screen | Detail Screen | 
+|------------|-------------|-------------|---------------|---------------|
+| ![image_alt](https://github.com/receparslan4247/Superhero-Book/blob/61f0de03ff42bb585558f70ee56b86b374f86fc6/Screenshoots/Home_Screen.jpg) | ![image_alt](https://github.com/receparslan4247/Superhero-Book/blob/61f0de03ff42bb585558f70ee56b86b374f86fc6/Screenshoots/List_Screen.jpg) | ![image_alt](https://github.com/receparslan4247/Superhero-Book/blob/61f0de03ff42bb585558f70ee56b86b374f86fc6/Screenshoots/List_Screen_2.jpg) | ![image_alt](https://github.com/receparslan4247/Superhero-Book/blob/61f0de03ff42bb585558f70ee56b86b374f86fc6/Screenshoots/Detail_Screen.jpg) | ![image_alt](https://github.com/receparslan4247/Superhero-Book/blob/61f0de03ff42bb585558f70ee56b86b374f86fc6/Screenshoots/Detail_Screen_2.jpg) |
 
 ## Contributing
 
